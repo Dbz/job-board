@@ -21,6 +21,10 @@ Interview and get matched with companies.
 
 This is a listing of companies that don't have a "broken" hiring process that consists of CS trivia questions.
 
+### [Angel List](https://angel.co/)
+
+Tons of startups with 1 click applications.
+
 ### [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
 
 Remotely awesome focuses on remote jobs! It crawls lots of job boards, and employers can also create postings directly.
@@ -28,8 +32,6 @@ Remotely awesome focuses on remote jobs! It crawls lots of job boards, and emplo
 ### [HN Hiring](http://hnhiring.me/)
 
 This site aims to be a pleasant interface to the monthly "Who is hiring?" posts on Hacker News.
-
-[hnhiring.me](http://hnhiring.me/)
 
 ### [Work In Tech](http://workintech.io/)
 
