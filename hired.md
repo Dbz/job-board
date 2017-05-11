@@ -1,6 +1,6 @@
 # Hired.com
 
-Nowadays, there are plenty of services to help you get a job. Even if they don't get you a job, they can still get you interviews which are the second best thing. The idea is that you create a profile, and Hired will auction you off to companies. The companies will offer you an exact salary (which you can of course negotiate on), if there is equity in the offer, and if they have employee benefits. Once a company makes you an offer, you can schedule a phone screen and/or interview.
+Nowadays, there are plenty of services to help you get a job. Even if they don't get you a job, they can still get you interviews which are the second best thing. The idea is that you create a profile, and Hired will auction you off to companies. The companies will offer you an exact salary (which you can and should negotiate), if there is equity in the offer, and any employee benefits. Once a company makes you an offer, you can schedule a phone screen and/or interview.
 
 The actual process involves creating a profile and passing an online coding challenge.
 
@@ -12,7 +12,7 @@ The coding challenge will consist of 3-5 questions where you need to devise an a
 
 1. Practice your algorithms beforehand.
 
-  You don't need to be a master of algorithms, but coming in rusty is a bad idea. It's good to practice O(n^2), O(nlogn), O(logn), and O(n) algorithms. There is a section of this book for that!    
+  You don't need to be a master of algorithms, but coming in rusty is a bad idea. It's good to practice O(n^2), O(nlogn), O(logn), and O(n) algorithms.
 
 1. Read the question, and plan your answer before writing it.
 
@@ -47,3 +47,4 @@ This is by no means the only way to do this. Talking about hobbies and showing t
  * References will help you more as a seasoned developer. If you are just starting out in tech, then this isn't a must, but a character reference will still help you. The recommendations section will help you.
 
  * Using a referral link of someone that got through the program may help you get in. **CITATION NEEDED** 
+
