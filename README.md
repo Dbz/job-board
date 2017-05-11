@@ -7,7 +7,8 @@ The purpose of this repository is to provide a comprehensive list of the best pl
 
 Get matched with companies. They place bids on you, so you get to see how what the salary, equity, and benefits would be before interviewing.
 
-[Join Hired Here](https://hired.com/x/BLM7Ki)
+ - [Read more about hired here](https://github.com/Dbz/job-board/blob/master/hired.md)
+ - [Join Hired Here](https://hired.com/x/BLM7Ki)
 
 ### [Triplebyte](https://triplebyte.com/iv/ZHCMuMw/cp)
 
