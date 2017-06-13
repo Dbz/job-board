@@ -7,7 +7,7 @@ The purpose of this repository is to provide a comprehensive list of the best pl
 
 Get matched with companies. They place bids on you, so you get to see how what the salary, equity, and benefits would be before interviewing.
 
- - [Read more about Hired.com here](https://github.com/Dbz/job-board/blob/master/hired.md)
+ - [Read my thoughts about Hired.com here](https://github.com/Dbz/job-board/blob/master/hired.md)
  - [Join Hired Here](https://hired.com/x/BLM7Ki)
 
 ### [Triplebyte](https://triplebyte.com/iv/ZHCMuMw/cp)
@@ -46,11 +46,17 @@ This is a list of ~400 jobs that are very easy to apply to.
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
 
-# Study Material
+# Negotiation Preparation
+
+### [Options vs. Cash](https://danluu.com/startup-options/)
+
+TLDR: It's usually better to take cash over options
 
 ### [H1B Salary Database](http://h1bdata.info/index.php)
 
-This is data on how much foreign (H1B visa holders) employees are making at your company. This is indexed data from the United States Department of Labor.
+This is data on how much foreign (H1B visa holders) employees are making at your company. This is indexed data from the United States Department of Labor. These are exact salaries on positions in the company.
+
+# Study Material
 
 ### [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
