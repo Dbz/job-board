@@ -42,6 +42,10 @@ This is a site of job boards. Its categories include creative, diversity, europe
 
 This is a list of ~400 jobs that are very easy to apply to.
 
+### [SwissDev Jobs](https://swissdevjobs.ch/) 
+
+Mostly for European Software Developers that want to find a job in Switzerland.
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
