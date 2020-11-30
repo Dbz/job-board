@@ -46,6 +46,10 @@ This is a list of ~400 jobs that are very easy to apply to.
 
 Mostly for European Software Developers that want to find a job in Switzerland.
 
+### [Kube Jobs](https://kubejobs.io/) 
+
+Job board targeted towards Kubernetes professionals.
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
