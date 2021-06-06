@@ -22,6 +22,10 @@ Interview and get matched with companies.
 
 This is a listing of companies that don't have a "broken" hiring process that consists of CS trivia questions.
 
+### [Codestunts](https://codestunts.com/)
+
+Unique freelance jobs from only IT industry.
+
 ### [Angel List](https://angel.co/)
 
 Tons of startups with 1 click applications.
@@ -49,6 +53,10 @@ Mostly for European Software Developers that want to find a job in Switzerland.
 ### [Kube Jobs](https://kubejobs.io/) 
 
 Job board targeted towards Kubernetes professionals.
+
+### [GermanTech Jobs](https://germantechjobs.de/) 
+
+Dedicated job board for tech jobs in Germany.
 
 #### Honorable mentions
 
