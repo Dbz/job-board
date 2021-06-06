@@ -50,6 +50,10 @@ This is a list of ~400 jobs that are very easy to apply to.
 
 Mostly for European Software Developers that want to find a job in Switzerland.
 
+### [Kube Jobs](https://kubejobs.io/) 
+
+Job board targeted towards Kubernetes professionals.
+
 ### [GermanTech Jobs](https://germantechjobs.de/) 
 
 Dedicated job board for tech jobs in Germany.
