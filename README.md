@@ -58,6 +58,10 @@ Job board targeted towards Kubernetes professionals.
 
 Dedicated job board for tech jobs in Germany.
 
+### [Ecomportal](https://ecomportal.co/) 
+
+Job board for the ecommerce industry. Remote jobs available for front-end & full-stack developers.
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
