@@ -58,6 +58,10 @@ Job board targeted towards Kubernetes professionals.
 
 Dedicated job board for tech jobs in Germany.
 
+### [OkJob](https://okjob.io/) 
+
+A job board with listings for 4-day week jobs.
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
