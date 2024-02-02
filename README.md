@@ -62,6 +62,10 @@ Dedicated job board for tech jobs in Germany.
 
 A job board with listings for 4-day week jobs.
 
+### [androidDev Careers](https://androiddev.careers/)
+
+Job board for Android Developers.
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
