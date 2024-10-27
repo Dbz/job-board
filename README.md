@@ -62,6 +62,10 @@ Dedicated job board for tech jobs in Germany.
 
 A job board with listings for 4-day week jobs.
 
+### [Hired Jobs](https://www.hired.co.ke) 
+
+Job board with a listing of jobs available mainly in Africa.
+
 ### [androidDev Careers](https://androiddev.careers/)
 
 Job board for Android Developers.
