@@ -30,6 +30,10 @@ Unique freelance jobs from only IT industry.
 
 Tons of startups with 1 click applications.
 
+### [Top Jobs Today](https://topjobstoday.com/)
+
+Daily updated listings of fresh FAANG & big tech jobs scraped directly from company career pages.
+
 ### [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/)
 
 Remotely awesome focuses on remote jobs! It crawls lots of job boards, and employers can also create postings directly.
