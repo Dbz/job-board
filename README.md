@@ -42,6 +42,10 @@ Remotely awesome focuses on remote jobs! It crawls lots of job boards, and emplo
 
 This site aims to be a pleasant interface to the monthly "Who is hiring?" posts on Hacker News.
 
+### [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/)
+
+Daily-updated Canadian student and recent-grad job board for tech internships, co-ops, new grad, junior, and entry-level roles, with company-career-page links and Canada-focused pages.
+
 ### [Work In Tech](http://workintech.io/)
 
 This is a site of job boards. Its categories include creative, diversity, europe, exotic, fintech, freelance, general, internship, marketplace, nonprofit, platform, programming language, remote, startup, and technology
