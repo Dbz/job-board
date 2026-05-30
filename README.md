@@ -85,6 +85,10 @@ Jobs Across the Globe at Top Tier Companies with extensive filter options(eg: re
 ### [Staffing Directory and Jobs](https://staffingdirectory.net/)
 More than 9000 employment agencies listed in the US and their jobs offers
 
+### [warpjobs](https://warpjobs.com)
+
+A niche board for GPU/CUDA, ML-systems, inference and performance-engineering roles, aggregated daily from AI-lab and infra companies' public ATS feeds (Greenhouse/Lever/Ashby). Open-source scraper, RSS and JSON feeds, no login.
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
