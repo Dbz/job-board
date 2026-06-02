@@ -88,6 +88,9 @@ More than 9000 employment agencies listed in the US and their jobs offers
 ### [warpjobs](https://warpjobs.com)
 
 A niche board for GPU/CUDA, ML-systems, inference and performance-engineering roles, aggregated daily from AI-lab and infra companies' public ATS feeds (Greenhouse/Lever/Ashby). Open-source scraper, RSS and JSON feeds, no login.
+### [FoundRole](https://www.foundrole.com/)
+
+Free job search platform with AI search, a Kanban application tracker, and career tools in one place.
 
 #### Honorable mentions
 
