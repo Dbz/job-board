@@ -92,6 +92,10 @@ A niche board for GPU/CUDA, ML-systems, inference and performance-engineering ro
 
 Free job search platform with AI search, a Kanban application tracker, and career tools in one place.
 
+### [HeyRole](https://heyrole.ai/)
+
+Remote job board with free public browsing, location and role filters, an optional AI job-search assistant, and links to original postings. Eligibility depends on each listing.
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
