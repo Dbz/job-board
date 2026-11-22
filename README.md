@@ -96,6 +96,10 @@ Free job search platform with AI search, a Kanban application tracker, and caree
 
 Remote job board with free public browsing, location and role filters, an optional AI job-search assistant, and links to original postings. Eligibility depends on each listing.
 
+### [EuroJobs.ai](https://eurojobs.ai/)
+
+IT jobs across the EU, UK and Switzerland read hourly from employers' own job boards (Greenhouse, Lever, Ashby, Workable and more), with visa sponsorship and relocation filters. Free to search.
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
