@@ -96,6 +96,14 @@ Free job search platform with AI search, a Kanban application tracker, and caree
 
 Remote job board with free public browsing, location and role filters, an optional AI job-search assistant, and links to original postings. Eligibility depends on each listing.
 
+### [Remote Roles](https://remoteroles.so/)
+
+Remote-only job board covering every field (software, data, AI, product, marketing, sales, finance, HR), with pay shown up front. Free, no sign-up.
+
+### [Physician Roles](https://physicianroles.com/)
+
+Job board for doctors: US physician jobs by specialty and state, with pay shown up front. Free, no sign-up.
+
 #### Honorable mentions
 
  - [Who Is Hiring?](https://whoishiring.io/) like HN Hiring aims to cover the job posts on HN. It seems to be updated less often, but the UI/UX looks great.
